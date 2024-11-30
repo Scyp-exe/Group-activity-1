@@ -1,4 +1,4 @@
-<h1>Group Activity 1: Virtual Information Treasure Hun</h1>
+<h1>Group Activity 1: Virtual Information Treasure Hunt</h1>
 <b>This group activity had the following:<br>
 
 
