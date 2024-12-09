@@ -1,6 +1,8 @@
 <h1>Group Activity 1: Virtual Information Treasure Hunt</h1>
-<b>This group activity had the following:<br>
+<h6>Click "View raw" within each lab to download labs.</h6>
+This group activity was to pretty much get everyone familiar with the "Penn State Libary." Since this is my 4th semester, I already knew how to navigate the websources to find the information needed. To see that all three of us ended up with different items was interesting. We at some point seen the source that others used but each of us found something else more interesting.
 
+<h6>The core information of the activity:</h6>
 
     Introduction and Treasure Hunt Scenario 
         You are "information detectives" on a virtual treasure hunt to find valuable pieces of information.
@@ -17,4 +19,4 @@
 
     Review and Reflection (5 minutes)
         Review each other's findings and engage in discussions about the quality and relevance of the sources. [This is not part of the deliverable]
-</b>
+
